@@ -148,9 +148,10 @@ font-size: 30px;
     background-color: #d6d6d61f;
 }
 .nambre{
-    padding: 20px;
+    padding:20px;
     color:white;
     text-align: center;
+   
 }
 .Blog {
     background: #D6D6D6;
@@ -182,7 +183,8 @@ font-size: 30px;
     color: #eee;
 }
 .mo i {
-    display: flex;
-    justify-content: center;
+     display: flex;
+     justify-content: center;
+     margin: auto;
+    
 }
-
